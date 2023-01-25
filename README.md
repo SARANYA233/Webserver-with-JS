@@ -10,3 +10,5 @@
   👉docker rm -f   
   👉docker exec  
   👉 add more
+
+video link : https://www.linkedin.com/posts/saranya-s23_worldrecordholder-training-internship-activity-6814179898031255553-Ec3t?utm_source=share&utm_medium=member_desktop
